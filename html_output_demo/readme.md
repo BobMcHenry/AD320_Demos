@@ -1,4 +1,4 @@
-#Basic PHP demonstration
+# Basic PHP demonstration
 - clone this repo to your MAMP document root
 -- C:/MAMP/htdocs by default (win)
 -- /Applications/MAMP/htdocs by default (mac)
