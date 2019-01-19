@@ -6,3 +6,4 @@
 
 Let me now if you have any questions!
 
+Note: You only have to use the port number if you are not using default port 80 for apache
