@@ -2,7 +2,7 @@
   //Since this php file is just a script with no classes or functions
   //defined, by requiring it, it will simply execute and perform
   //the echo statements without any additional code beyond
-  //`require(render_pahe_header.php)`
+  //`require(render_page_header.php)`
   $inlineStyle = "style="
     ."'width: 15%;"
     ."border: 1px #222 solid;"
